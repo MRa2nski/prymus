@@ -1,0 +1,14 @@
+{
+    "name": "m_rad/meetings-rest",
+    "authors": [
+        {
+            "name": "MRa2nski",
+            "email": "m.radwanski2001@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3",
+        "ext-json": "*",
+        "ext-sqlite3": "*"
+    }
+}
